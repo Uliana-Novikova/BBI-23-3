@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v529RbHzrDXMssStmOM+Y7f2L9CvC96bHMxLD6+joiAMxe+d6K9aZ/+Uko1Yql3A8LggJ+2d1kSRH/ZEt3Juqw==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\progmisis\\xalx\\randomLab10\\big\\BIG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poseidon\\.nuget\\packages\\protobuf-net\\3.2.30\\protobuf-net.3.2.30.nupkg.sha512",
+    "C:\\Users\\poseidon\\.nuget\\packages\\protobuf-net.core\\3.2.30\\protobuf-net.core.3.2.30.nupkg.sha512",
+    "C:\\Users\\poseidon\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
